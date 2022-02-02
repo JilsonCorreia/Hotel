@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test.xsl"?>
+<admin>
+    <admininfo>
+        <name>Jilson Correia</name>
+        <age>40</age>
+        <email>jilsoncorreia102@gmail.com</email>
+        <phno>+91 1222334550</phno>
+        <designation>Owner</designation>
+    </admininfo>
+    <admininfo>
+        <name>Leon correia</name>
+        <age>44</age>
+        <email>leoncorreia@gmail.com</email>
+        <phno>+91 1222334550</phno>
+        <designation>Owner</designation>
+    </admininfo>
+    <admininfo>
+        <name>Bruno colas</name>
+        <age>44</age>
+        <email>brunocolas@gmail.com</email>
+        <phno>+91 1222334550</phno>
+        <designation>Owner</designation>
+    </admininfo>
+</admin>
